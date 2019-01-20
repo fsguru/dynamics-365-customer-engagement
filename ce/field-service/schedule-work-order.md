@@ -95,7 +95,7 @@ Once a work order has been created in [!INCLUDE[pn_dyn_365_field_service](../inc
   
    - **Duration**: Pulled from the estimated duration on the work order, which is driven by the incidents.  
   
-   - **Radius Constraint**: Select the radius for the available resources. This defaults from a [!INCLUDE[pn_field_service](../includes/pn-field-service.md)] setting.  
+   - **Radius Constraint**: Select the radius for the available resources. This defaults from a Universal Resource Scheduling Parameter setting.  
   
    - **Start and End Days**: Choose the date ranges. This is driven from the date window fields on the work order.  
   
