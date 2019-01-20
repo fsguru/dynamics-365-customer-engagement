@@ -53,9 +53,9 @@ A resource in Dynamics 365 for Customer Engagement for Field Service is anything
   
     - **User**: The resource is a member of your organization.  
   
-    - **Company Asset**: Equipment.  
+    - **Equipment**: Tools or other assets. 
   
-    - **Service Center**: Where shop repairs are made.  
+    - **Facility**:  Used to coordinate physical spaces and related resources.
   
     - **Crew**: Any collection of resources, for example, two or more workers, or a group.  
   
